@@ -1,4 +1,4 @@
 # libro-git
 autores 
 luciasegovia01
-luciasegovia01@hotmail.com
+lusegovia01@gmail.com
